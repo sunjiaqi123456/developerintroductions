@@ -1,0 +1,33 @@
+{
+  "name": "developerintroductions",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "developerintroductions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunjiaqi123456/developerintroductions"
+  },
+  "website": "https://github.com/sunjiaqi123456/developerintroductions.git",
+  "keywords": [
+    "binance",
+    "client",
+    "arbitrim"
+  ],
+  "author": "sunjiaqi123456",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunjiaqi123456/developerintroductions/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/sunjiaqi123456/developerintroductions#readme",
+  "dependencies": {
+    "contentrecommendationengines": "1.0.2"
+  }
+}
